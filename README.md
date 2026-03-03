@@ -16,4 +16,4 @@ Proyecto en Python que permite:
 1. Descargar el archivo.
 2. Ejecutar en la terminal:
 
-python nombre_del_archivo.py
+
